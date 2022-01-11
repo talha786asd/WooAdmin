@@ -1,0 +1,3 @@
+enum PageType{
+  Add, Edit
+}
