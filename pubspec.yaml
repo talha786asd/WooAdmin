@@ -39,6 +39,7 @@ dependencies:
   get: ^4.6.1
   flutter_barcode_scanner: ^2.0.0
   snippet_coder_utils: ^1.0.9
+  provider: ^6.0.2
   
 
 dev_dependencies:
